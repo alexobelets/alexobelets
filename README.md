@@ -21,7 +21,7 @@ I’ve worked across:
 ## 🧰 Tech Stack
 
 **Languages:**  
-`Java`, `JavaScript`, `Python`, `Golang` (familiar)
+`Java`, `JavaScript`, `TypeScript`, `Python`, `Golang` (familiar)
 
 **Automation & Tools:**  
 `Playwright`, `REST Assured`, `Selenium`, `Appium`, `TestNG`, `Serenity`, `BDD (Cucumber/JBehave)`
